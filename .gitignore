@@ -1,0 +1,23 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*.d
+*.fls
+*.make
+*.temp
+*.out
+*.cut
+*.toc
+*.xml
+*.bib
+*.cookie
+*-eps-converted-to.pdf
+
+# vim
+*.swp
+
+# mac
+.DS_Store
+
+*.pdf
